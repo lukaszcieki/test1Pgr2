@@ -8,3 +8,5 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Placeat, quo necessita
 tu był Bartek
 
 Piotrek też tu był
+ tu był Lukasz
+ 
